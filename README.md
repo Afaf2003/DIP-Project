@@ -42,7 +42,6 @@ You can watch a video demonstration of this project [here](https://github.com/Af
 ## PowerPoint Presentation
 
 For a detailed overview and explanation of the project, please refer to our PowerPoint presentations [Object Tracking Intro](https://github.com/Afaf2003/Object-Tracker/files/14442747/Object.Tracking.pdf) and [Object Tracking Implementation](https://github.com/Afaf2003/Object-Tracker/files/14442724/Object.Tracking.Implementation.pptx)
-).
 
 
 ## Features
